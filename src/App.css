@@ -1,6 +1,21 @@
 .App {
   text-align: center;
+  align-items: center;
 }
+table {
+  border: 5px solid whitesmoke;
+  width: 100px;
+  height: 200px;
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
+
 
 .App-logo {
   height: 40vmin;
